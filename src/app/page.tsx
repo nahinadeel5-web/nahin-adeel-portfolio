@@ -61,7 +61,8 @@ const projects = [
     tone: "lilac",
     symbol: "∑",
     tags: ["Python", "AI", "Problem solving"],
-    href: "#contact",
+     href: "https://math-ai-98zdeaefmbtt6jf4bwvhdf.streamlit.app/",
+  github: "https://github.com/nahinadeel5-web/Math-AI",
   },
   {
     number: "03",
